@@ -1,0 +1,25 @@
+body
+{
+    background-color: bisque;
+}
+#one
+{
+    color:red
+}
+.two
+{
+    font-size: 25px;
+    font-weight: bold
+}
+.four
+{
+    color: green
+}
+.three
+{
+    text-decoration: underline;
+}
+.five
+{
+    color: red
+}
